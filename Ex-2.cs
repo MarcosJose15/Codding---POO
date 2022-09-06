@@ -45,4 +45,8 @@ public class Computador
     public int qtdMemoriaRom;
     public string placaVideo;
 }
-
+public class bebida
+{
+    public string nome;
+    public int ;
+}
