@@ -48,5 +48,7 @@ public class Computador
 public class bebida
 {
     public string nome;
-    public int ;
+    public int preco;
+    public string validade;
+    public string dataFabricacao;
 }
