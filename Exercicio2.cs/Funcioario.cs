@@ -7,14 +7,22 @@ public class Funcionario
     public string endereco;
     public int salario;
 
-    {
-    if(this.salario > 3000)
-    {
+{
+    if(this.salario > 3000){
         Console.WriteLine("Você deverá pagar imposto de renda");
     }
-    else
-    {
+    else{
         Console.WriteLine("Você não deverá pagar imposto de renda");
     }
+ 
+    
+    
+    {
+     public void Demitir(Funcionario golias){
+        this.golias = null;
+     
+     }
+    
     }
+    
 }
